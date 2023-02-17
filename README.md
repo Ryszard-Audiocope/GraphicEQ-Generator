@@ -22,11 +22,11 @@ Before running the generator, you need to have Python and NumPy installed on you
 ### Running the program
 Once you have installed Python and NumPy, you can follow these steps to run the generator:
 
-1. Prepare two text files: base.txt and target.txt. Make sure these files contain frequency and amplitude data, separated by a space or a tab, with each data point on a separate line. The first line of each file should contain a header that you will skip during loading. They should be basically standard frequency response .txt files.
+1. Prepare two text files: ```base.txt``` and ```target.txt```. Make sure these files contain frequency and amplitude data, separated by a space or a tab, with each data point on a separate line. The first line of each file should contain a header that you will skip during loading. They should be basically standard frequency response .txt files.
 
-2. Download codeblock.py provided by Ryszard.
+2. Download ```codeblock.py``` provided by Ryszard.
 
-3. Place the codeblock.py file in the same directory as the base.txt and target.txt files. It could be any folder you want.
+3. Place the ```codeblock.py``` file in the same directory as the base.txt and target.txt files. It could be any folder you want.
 
 4. Press the ```Win``` + ```R``` keys on your keyboard to open the "Run" dialog box.
 
