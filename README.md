@@ -15,7 +15,7 @@ This is the step-by-step guide to running a GraphicEQ Generator by Ryszard.
 ### Prerequisites
 Before running the generator, you need to have Python and NumPy installed on your computer. 	Here are the steps to install them:
 
-1. Install Python: Go to the official Python website and download the latest version of Python. Follow the instructions in the installation wizard to complete the installation.
+1. Install Python: Go to the [official Python website](https://www.python.org/downloads/) and download the latest version of Python. Follow the instructions in the installation wizard to complete the installation.
 
 2. Install NumPy: Once Python is installed, you can install NumPy using the following command in your command prompt or terminal: ```pip install numpy```. This will install the latest version of NumPy.
 
