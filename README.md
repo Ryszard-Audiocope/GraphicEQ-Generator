@@ -38,7 +38,7 @@ Once you have installed Python and NumPy, you can follow these steps to run the 
 
 8. Run the Python script by typing the command ```python codeblock.py``` in the terminal.
 
-9. Results will be saved in output.txt file in the same directory.
+9. Results will be saved in ```output.txt``` file in the same directory.
 
 And that's it! If you have any issues or questions, feel free to ask.
 ## Examples
