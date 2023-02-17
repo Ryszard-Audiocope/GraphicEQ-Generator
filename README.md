@@ -42,8 +42,8 @@ Once you have installed Python and NumPy, you can follow these steps to run the 
 
 And that's it! If you have any issues or questions, feel free to ask.
 ## Examples
-[base.txt]()
+[base.txt](https://github.com/Ryszard-Audiocope/GraphicEQ-generator/blob/main/examples/base.txt)
 
-[target.txt]()
+[target.txt](https://github.com/Ryszard-Audiocope/GraphicEQ-generator/blob/main/examples/target.txt)
 
-[output.txt]()
+[output.txt](https://github.com/Ryszard-Audiocope/GraphicEQ-generator/blob/main/examples/output.txt)
