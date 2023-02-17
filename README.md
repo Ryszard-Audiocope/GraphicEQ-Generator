@@ -3,7 +3,7 @@
 
 This project is an automatic generator of graphic equalizer filters for Wavelet and possibly other equalizer software. All you need to provide are base and target measurements.
 
-Unlike [AutoEQ](https://github.com/jaakkopasanen/AutoEq), it doesn't convert generated Parametric EQ filters into Graphic EQ filters. Instead, it simply calculates the difference between those two measurements and generates Graphic EQ filters accordingly.
+Unlike [AutoEQ](https://github.com/jaakkopasanen/AutoEq), it doesn't convert generated Parametric EQ filters into Graphic EQ filters. Instead, it simply calculates the difference between two measurements and generates Graphic EQ filters accordingly.
 ## Authors
 
 - [@Ryszard-Audiocope](https://github.com/Ryszard-Audiocope)
